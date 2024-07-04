@@ -1,0 +1,4 @@
+{
+    "databricks.connection.default.displayName": "projeto",
+    "databricks.connection.default.apiRootUrl": "https://adb-12345678901234.19.azuredatabricks.net"
+}
